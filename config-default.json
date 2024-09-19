@@ -1,0 +1,7 @@
+{
+  "baseRpcUrl" : "REPLACE WITH BASE RPC URL",
+  "basePrivateKey" : "REPLACE WITH BASE PRIVATE KEY",
+  "twitchChannel": "REPLACE WITH TWITCH CHANNEL",
+  "twitchUsername": "REPLACE WITH BOT'S TWITCH USERNAME",
+  "twitchOauthToken": "REPLACE WITH BOT'S TWITCH OAUTH TOKEN"
+}
