@@ -1,0 +1,2 @@
+# basetwitchbot
+A simple basetwitchbot.
